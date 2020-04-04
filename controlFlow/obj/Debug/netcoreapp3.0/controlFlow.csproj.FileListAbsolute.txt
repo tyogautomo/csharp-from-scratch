@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow.dll
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/bin/Debug/netcoreapp3.0/controlFlow.pdb
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/obj/Debug/netcoreapp3.0/controlFlow.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/obj/Debug/netcoreapp3.0/controlFlow.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/obj/Debug/netcoreapp3.0/controlFlow.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/obj/Debug/netcoreapp3.0/controlFlow.dll
+/Users/useradmin/Documents/october/sandbox/C#/controlFlow/obj/Debug/netcoreapp3.0/controlFlow.pdb

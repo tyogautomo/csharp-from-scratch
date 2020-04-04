@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.dll
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/bin/Debug/netcoreapp3.0/ArraysAndLists.pdb
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.dll
+/Users/useradmin/Documents/october/sandbox/C#/ArraysAndLists/obj/Debug/netcoreapp3.0/ArraysAndLists.pdb

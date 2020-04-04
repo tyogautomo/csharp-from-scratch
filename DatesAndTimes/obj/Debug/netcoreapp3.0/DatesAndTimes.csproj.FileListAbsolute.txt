@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes.dll
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/bin/Debug/netcoreapp3.0/DatesAndTimes.pdb
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/obj/Debug/netcoreapp3.0/DatesAndTimes.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/obj/Debug/netcoreapp3.0/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/obj/Debug/netcoreapp3.0/DatesAndTimes.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/obj/Debug/netcoreapp3.0/DatesAndTimes.dll
+/Users/useradmin/Documents/october/sandbox/C#/DatesAndTimes/obj/Debug/netcoreapp3.0/DatesAndTimes.pdb

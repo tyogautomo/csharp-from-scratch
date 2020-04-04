@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/bin/Debug/netcoreapp3.0/ClassesSection.pdb
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/obj/Debug/netcoreapp3.0/ClassesSection.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/obj/Debug/netcoreapp3.0/ClassesSection.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/obj/Debug/netcoreapp3.0/ClassesSection.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/obj/Debug/netcoreapp3.0/ClassesSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/ClassesSection/obj/Debug/netcoreapp3.0/ClassesSection.pdb

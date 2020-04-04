@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles.dll
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/bin/Debug/netcoreapp3.0/WorkingWithFiles.pdb
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/obj/Debug/netcoreapp3.0/WorkingWithFiles.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/obj/Debug/netcoreapp3.0/WorkingWithFiles.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/obj/Debug/netcoreapp3.0/WorkingWithFiles.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/obj/Debug/netcoreapp3.0/WorkingWithFiles.dll
+/Users/useradmin/Documents/october/sandbox/C#/WorkingWithFiles/obj/Debug/netcoreapp3.0/WorkingWithFiles.pdb

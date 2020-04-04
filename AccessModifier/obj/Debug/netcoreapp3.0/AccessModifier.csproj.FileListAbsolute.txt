@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier.dll
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/bin/Debug/netcoreapp3.0/AccessModifier.pdb
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/obj/Debug/netcoreapp3.0/AccessModifier.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/obj/Debug/netcoreapp3.0/AccessModifier.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/obj/Debug/netcoreapp3.0/AccessModifier.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/obj/Debug/netcoreapp3.0/AccessModifier.dll
+/Users/useradmin/Documents/october/sandbox/C#/AccessModifier/obj/Debug/netcoreapp3.0/AccessModifier.pdb

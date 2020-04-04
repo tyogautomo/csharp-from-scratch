@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/bin/Debug/netcoreapp3.0/TextSection.pdb
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/obj/Debug/netcoreapp3.0/TextSection.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/obj/Debug/netcoreapp3.0/TextSection.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/obj/Debug/netcoreapp3.0/TextSection.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/obj/Debug/netcoreapp3.0/TextSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/TextSection/obj/Debug/netcoreapp3.0/TextSection.pdb

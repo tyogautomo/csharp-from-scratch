@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/useradmin/Documents/october/sandbox/C#/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/useradmin/Documents/october/sandbox/C#/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/useradmin/Documents/october/sandbox/C#/myApp/obj/Debug/netcoreapp3.0/myApp.pdb

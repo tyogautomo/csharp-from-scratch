@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/bin/Debug/netcoreapp3.0/MethodsSection.pdb
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/obj/Debug/netcoreapp3.0/MethodsSection.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/obj/Debug/netcoreapp3.0/MethodsSection.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/obj/Debug/netcoreapp3.0/MethodsSection.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/obj/Debug/netcoreapp3.0/MethodsSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/MethodsSection/obj/Debug/netcoreapp3.0/MethodsSection.pdb

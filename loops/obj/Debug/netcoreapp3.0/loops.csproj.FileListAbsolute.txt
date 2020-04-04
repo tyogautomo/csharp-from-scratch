@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops.dll
+/Users/useradmin/Documents/october/sandbox/C#/loops/bin/Debug/netcoreapp3.0/loops.pdb
+/Users/useradmin/Documents/october/sandbox/C#/loops/obj/Debug/netcoreapp3.0/loops.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/loops/obj/Debug/netcoreapp3.0/loops.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/loops/obj/Debug/netcoreapp3.0/loops.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/loops/obj/Debug/netcoreapp3.0/loops.dll
+/Users/useradmin/Documents/october/sandbox/C#/loops/obj/Debug/netcoreapp3.0/loops.pdb

@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/bin/Debug/netcoreapp3.0/FieldsSection.pdb
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/obj/Debug/netcoreapp3.0/FieldsSection.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/obj/Debug/netcoreapp3.0/FieldsSection.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/obj/Debug/netcoreapp3.0/FieldsSection.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/obj/Debug/netcoreapp3.0/FieldsSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/FieldsSection/obj/Debug/netcoreapp3.0/FieldsSection.pdb
