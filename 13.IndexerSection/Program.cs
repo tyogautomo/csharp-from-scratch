@@ -6,7 +6,14 @@ namespace IndexerSection {
 
     static void Main(string[] args) {
 
-        
+      var cookie = new HttpCookies();
+
+      cookie["name"] = "Yoga";
+      Console.WriteLine(cookie["name"]);
+
+      cookie["name"] = "Tobis";
+      Console.WriteLine(cookie["name"]);
+
 
     }
   }

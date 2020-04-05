@@ -1,0 +1,11 @@
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection.deps.json
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection.runtimeconfig.json
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection.runtimeconfig.dev.json
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/bin/Debug/netcoreapp3.0/IndexerSection.pdb
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/Debug/netcoreapp3.0/IndexerSection.csprojAssemblyReference.cache
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/Debug/netcoreapp3.0/IndexerSection.AssemblyInfoInputs.cache
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/Debug/netcoreapp3.0/IndexerSection.AssemblyInfo.cs
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/Debug/netcoreapp3.0/IndexerSection.dll
+/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/Debug/netcoreapp3.0/IndexerSection.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/useradmin/Documents/october/sandbox/C#/IndexerSection/IndexerSection.csproj": {}
+    "/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/IndexerSection.csproj": {}
   },
   "projects": {
-    "/Users/useradmin/Documents/october/sandbox/C#/IndexerSection/IndexerSection.csproj": {
+    "/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/IndexerSection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/useradmin/Documents/october/sandbox/C#/IndexerSection/IndexerSection.csproj",
+        "projectUniqueName": "/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/IndexerSection.csproj",
         "projectName": "IndexerSection",
-        "projectPath": "/Users/useradmin/Documents/october/sandbox/C#/IndexerSection/IndexerSection.csproj",
+        "projectPath": "/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/IndexerSection.csproj",
         "packagesPath": "/Users/useradmin/.nuget/packages/",
-        "outputPath": "/Users/useradmin/Documents/october/sandbox/C#/IndexerSection/obj/",
+        "outputPath": "/Users/useradmin/Documents/october/sandbox/C#/csharp-from-scratch/13.IndexerSection/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/useradmin/.nuget/NuGet/NuGet.Config"
